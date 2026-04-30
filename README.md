@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillExchange
 
 A React + Vite skill exchange platform with Firebase email/password auth, Firestore-backed profiles and chat, Firebase Storage profile photos, skill-based match ranking, reviews, requests, alerts, and responsive mobile/desktop layouts.
@@ -33,3 +34,7 @@ This project includes:
 - `firestore.rules` for Firestore security
 - `storage.rules` for image upload security
 - `firebase.json` for Hosting plus Firebase rules deployment
+=======
+# skillexchange
+A skill exchange platform is a community-driven space where people trade skills instead of money. Users offer what they know—like coding, design, or languages—and learn from others in return. It promotes collaboration, accessible learning, and mutual growth, allowing everyone to be both a teacher and a learner.
+>>>>>>> 1e5cec631feb9d7e75b566c1aed97173a5e530e4
