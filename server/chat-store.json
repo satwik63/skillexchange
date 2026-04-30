@@ -1,0 +1,28 @@
+{
+  "conversations": {
+    "satwik123ab@gmail.com::5": [
+      {
+        "sender": "you",
+        "text": "hey",
+        "createdAt": "2026-04-06T15:19:54.114Z"
+      },
+      {
+        "sender": "them",
+        "text": "Sounds good. I can help you with html and css. Let's schedule our next session.",
+        "createdAt": "2026-04-06T15:19:55.026Z"
+      }
+    ],
+    "satwik123ab@gmail.com::8": [
+      {
+        "sender": "you",
+        "text": "j",
+        "createdAt": "2026-04-06T15:20:13.037Z"
+      },
+      {
+        "sender": "them",
+        "text": "Sounds good. I can help you with figma and ui ux. Let's schedule our next session.",
+        "createdAt": "2026-04-06T15:20:13.956Z"
+      }
+    ]
+  }
+}
